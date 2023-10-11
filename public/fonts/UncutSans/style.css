@@ -1,0 +1,7 @@
+@font-face {
+	font-family: "Uncut Sans";
+	font-style: normal;
+	font-weight: 300 700;
+	font-display: swap;
+	src: url("web/UncutSans-Variable.woff2") format("woff2");
+}
